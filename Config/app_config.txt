@@ -1,0 +1,3 @@
+mining_engine: basic
+application_log_path: Logs/Application/app.log
+basic_mining_engine_log_path: Logs/BasicMiningEngine/basic_mining.log
